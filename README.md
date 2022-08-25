@@ -1,15 +1,13 @@
-# Hoax-Detection
+# Hoax Detection
 
-**Objective**: Built a model to predict the truth of the
-article (hoax or non hoax).
+- Created by Fitria Dwi Wulandari
+- **Objective**: 
+  - Identify the percentage of hoax and non-hoax articles.
+  - Implement machine learning algorithms to predict the truth of the articles that is hoax or non-hoax.
+  - Implement the best models on unseen data.
 
-**Actions**:
-1. Performed data preprocessing (tokenization,
-stemming, etc)
-2. Built a model from several algorithms to find the
-best model to predict hoax.
+- **Results**: 
+   - 
+   - The best model to predict the truth of the article (hoax or non-hoax) is Gaussian Naive Bayes model.
 
-**Results**: Successfully built the model with 82.4%
-accuracy.
-
-**Tools**: Google Spreadsheet, Python.
+- **Tools**: Google Spreadsheet, Python.
