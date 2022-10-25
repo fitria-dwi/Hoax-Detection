@@ -2,7 +2,7 @@
 
 Created by Fitria Dwi Wulandari
 
-### **Objective**: 
+### **Objectives**: 
   - Identified the percentage of hoax and non-hoax articles.
   - Implemented machine learning algorithms to predict the truth of the articles that is hoax or non-hoax.
   - Implemented the best models on unseen data.
