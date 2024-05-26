@@ -19,7 +19,7 @@ The primary objective of this project is to develop a hoax detection model capab
 
 #### <code style="color : darkpurple">Tools</code>
 * **Programming Language**: Python
-*** Libraries**: Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Seaborn
+* **Libraries**: Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Seaborn
 
 ### **Results**
 The analysis revealed that the Logistic Regression model, achieving an accuracy of 83%, emerged as the most effective in predicting the truthfulness of articles. This model can serve as a valuable tool for users, enabling them to discern between reliable and unreliable sources and preventing the spread of harmful information that could lead to confusion, panic, or societal harm.
@@ -30,4 +30,4 @@ The analysis revealed that the Logistic Regression model, achieving an accuracy 
 * **Extended Analysis**: Include additional data sources and variables for a more comprehensive detection system.
 
 ### Repository Contents
-* [**Script**](https://github.com/fitria-dwi/Hoax-Detection/blob/main/Hoax%20Detection.ipynb): 
+* [**Script**](https://github.com/fitria-dwi/Hoax-Detection/blob/main/Hoax%20Detection.ipynb): Python scripts for data preprocessing, cleaning, and model training.
